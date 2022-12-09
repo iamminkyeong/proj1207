@@ -68,5 +68,6 @@
 </c:forEach>
 </table>
 <br/><button type="button" onclick="location.href='add'">Add New Post</button>
+<br/><button type="button" onclick="location.href='../login/logout'">logout</button>
 </body>
 </html>
